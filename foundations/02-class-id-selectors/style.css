@@ -1,0 +1,18 @@
+.odd {
+    background-color: pink;
+    font-family: Veranda, 'DejaVu Sans', sans-serif;
+}
+
+#num2 {
+    color: blue;
+    font-size: 32px;
+}
+
+.upsize{
+    font-size: 24px;
+}
+
+#num4{
+    background-color: lightgreen;
+    font-weight: bold;
+}
